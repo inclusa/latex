@@ -19,5 +19,5 @@ Per instal·lar a Debian/Ubuntu/LliureX:
 
 ## Font utilitzada
 
-Generem el document amb la font: `cantarell` de forma que la plantilla té aquesta especificació a la línia 6 de l'arxiu `template.txt`, en cas de voler utilitzar alguna altra font base caldria canviar-la.
+Generem el document amb la font: `cantarell` de forma que la plantilla té aquesta especificació a la línia 6 de l'arxiu `template.text`, en cas de voler utilitzar alguna altra font base caldria canviar-la.
 
